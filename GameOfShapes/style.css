@@ -41,7 +41,10 @@ html,body{
     background-color: lightblue;
 }
 #diamond{
-    margin-top: 60px;
+    height: 140px;
+    width:140px;
+    translate: 29px;
+    margin-top: 40px;
     rotate: 45deg;
 }
 #diamond:hover{
